@@ -1,1 +1,1 @@
-# Go React Todo Application
+# Go & React Todo Application
